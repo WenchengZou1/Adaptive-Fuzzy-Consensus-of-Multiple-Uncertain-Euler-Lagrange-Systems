@@ -23,6 +23,7 @@ The effectiveness is validated through both Numerical Simulations (MATLAB) and R
 The proposed control framework consists of a **Virtual Layer** and an **Actual Layer**. This achieves a separation between the design of virtual trajectory dynamics and the specific agent input.
 
 ![System Block Diagram](fig1_block_diagram.png)
+
 *Fig. 1: Block diagram of the consensus protocol featuring the dual-layer structure.*
 
 ### Key Features
@@ -36,6 +37,7 @@ The proposed control framework consists of a **Virtual Layer** and an **Actual L
 The algorithms are implemented in **ROS (Robot Operating System)** to validate performance in a realistic physics engine (Gazebo).
 
 ![ROS Architecture](fig7_ros_diagram.png)
+
 *Fig. 2: The block diagram of the proposed protocol for ROS implementation.*
 
 *   **Virtual Layer**: Generates high-level reference commands via topics.
@@ -49,10 +51,12 @@ The algorithms are implemented in **ROS (Robot Operating System)** to validate p
 The agents successfully achieve consensus and formation control despite uncertainties and sampled communications.
 
 ![3D Trajectories](fig11_3d_trajectories.png)
+
 *Fig. 3: The 3D trajectories of four agents achieving a parallelogram formation.*
 
 ### Virtual Reference Trajectories
 The virtual layer ensures that reference signals reach consensus based on the communication topology.
 
 ![Virtual Reference](fig8_virtual_traj.png)
+
 *Fig. 4: Evolution of virtual reference trajectories in x and y axes.*
