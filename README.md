@@ -1,7 +1,7 @@
 # Adaptive Fuzzy Consensus of Multiple Uncertain Euler-Lagrange Systems With Sampled-Data Output Interactions
 
-[![ROS](https://img.shields.io/badge/ROS-Noetic-blue)](http://wiki.ros.org/noetic)
-[![MATLAB](https://img.shields.io/badge/MATLAB-2023b-orange)](https://www.mathworks.com/)
+[![ROS](https://img.shields.io/badge/ROS-blue)](http://wiki.ros.org/noetic)
+[![MATLAB](https://img.shields.io/badge/MATLAB-orange)](https://www.mathworks.com/)
 
 This repository contains the implementation of the paper **"Adaptive Fuzzy Consensus of Multiple Uncertain Euler-Lagrange Systems With Sampled-Data Output Interactions"**.
 
