@@ -1,6 +1,5 @@
 # Adaptive Fuzzy Consensus of Multiple Uncertain Euler-Lagrange Systems With Sampled-Data Output Interactions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ROS](https://img.shields.io/badge/ROS-Noetic-blue)](http://wiki.ros.org/noetic)
 [![MATLAB](https://img.shields.io/badge/MATLAB-2023b-orange)](https://www.mathworks.com/)
 
